@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=20B2AA&height=300&section=header&text=R1mmm&fontSize=75&fontColor=ffffff)
 
-<img src="https://user-images.githubusercontent.com/87795291/192449662-edaf8007-11ec-47a6-b9c0-14934d7108ad.png" height="500"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/87795291/192449662-edaf8007-11ec-47a6-b9c0-14934d7108ad.png" height="300"/>
+</div>
 
 <h1 align="center">🌱Stacks🌱</h1>
 
