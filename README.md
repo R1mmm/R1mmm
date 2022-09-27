@@ -1,11 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFFACD&height=300&section=header&text=R1mmm&fontSize=75&fontColor=565656)
+<br/>
+<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/87795291/192449662-edaf8007-11ec-47a6-b9c0-14934d7108ad.png" height="300"/>
 </div>
+<br/>
+<br/>
 
 <h1 align="center">📚 Stacks</h1>
 
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
