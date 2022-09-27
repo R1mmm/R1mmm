@@ -8,6 +8,12 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/87795291/192449662-edaf8007-11ec-47a6-b9c0-14934d7108ad.png" height="300"/>
 </div>
+
+<br/>
+<br/>
+<p align='center'>👋 Hi there! I'm web frontend developer. 🚀</p>
+<p align='center'>I love React!💖</p>
+
 <br/>
 <br/>
 
