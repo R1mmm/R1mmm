@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFFACD&height=300&section=header&text=R1mmm&fontSize=75&fontColor=232323)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFFACD&height=300&section=header&text=R1mmm&fontSize=75&fontColor=434343)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/87795291/192449662-edaf8007-11ec-47a6-b9c0-14934d7108ad.png" height="300"/>
