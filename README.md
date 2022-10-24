@@ -16,7 +16,6 @@
 <br/>
 <br/>
   <p align='center'>👋 Hi there! I'm web frontend developer. 🚀</p>
-<p align='center'>I love React!💖</p>
 
 <br/>
 <br/>
