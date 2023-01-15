@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<h1 align="center">📚 Stacks</h1>
+<h3 align="center">📚 Stacks</h3>
 
 <br/>
 
