@@ -1,8 +1,7 @@
 
-
+<br/>
 <div align="center">
-<h3 align="center">Hello!👋 I'm Rim!</h3>
-<img src="https://user-images.githubusercontent.com/87795291/192449662-edaf8007-11ec-47a6-b9c0-14934d7108ad.png" height="300"/>
+<h3 align="center">Hi there!👋 I'm Rim!</h3>
 </div>
 
 <br/>
