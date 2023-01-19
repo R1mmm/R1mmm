@@ -1,12 +1,12 @@
 
 <br/>
-<div align="center">
-<h3 align="center">Hi there!👋 I'm Rim!</h3>
+<!-- <div align="center"> -->
+<h3>Hi there!👋 I'm Rim!</h3>
 </div>
 
 <br/>
 <br/>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/skfla07@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
   <img src="https://img.shields.io/badge/R1mmm-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
@@ -15,11 +15,11 @@
 <br/>
 <br/>
 
-<h3 align="center">📚 Stacks</h3>
+<h3>📚 Stacks</h3>
 
 <br/>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
   <img alt="RED" src ="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -32,6 +32,6 @@
 </div>
 
 <br/>
-<h3 align="center">・・・ to be added 🛠</h3>
+<h3>・・・ to be added 🛠</h3>
 <br/>
 <br/>
