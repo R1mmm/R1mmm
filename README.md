@@ -2,6 +2,7 @@
 ## 😽 Hi there!👋 I'm Rim!
 
 💌 Email : skfla07@naver.com
+<br/>
 🏫 Hanyang Univ Infomation Systems
 
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
