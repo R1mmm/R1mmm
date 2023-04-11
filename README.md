@@ -1,5 +1,5 @@
 
-## 😽 Hi there!👋 I'm Rim!
+## 😽 Hi there! I'm Rim!
 
 💌 Email : skfla07@naver.com
 <br/>
