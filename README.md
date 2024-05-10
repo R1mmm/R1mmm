@@ -3,7 +3,6 @@
 
 💌 Email : skfla07@naver.com
 <br/>
-🏫 Hanyang Univ Information Systems
 
 <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
